@@ -17,7 +17,7 @@ $ ./filter [filter-option] input-file output-file
 ```
 Exemple:
 ```bash
-$ ./filter -g images/yard.bmp out.bmp
+$ ./filter -g input.bmp out.bmp
 ```
 images/yard.bmp:
 This is the input file that contains the original image. The program reads this file to extract pixel data.
